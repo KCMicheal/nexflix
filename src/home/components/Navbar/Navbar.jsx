@@ -1,7 +1,7 @@
 import React from 'react'
 import './navbar.scss'
-import nexflix from '../../assets/nexflix logo.png'
-import ken from '../../assets/ken.jpg'
+import nexflix from '../../../assets/nexflix logo.png'
+import ken from '../../../assets/ken.jpg'
 import { ArrowDropDown, Notifications, Search } from '@material-ui/icons'
 import { useState } from 'react'
 
